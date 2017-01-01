@@ -1,10 +1,10 @@
-import { MEANTodosPage } from './app.po';
+import { MeantodosPage } from './app.po';
 
 describe('meantodos App', function() {
-  let page: MEANTodosPage;
+  let page: MeantodosPage;
 
   beforeEach(() => {
-    page = new MEANTodosPage();
+    page = new MeantodosPage();
   });
 
   it('should display message saying app works', () => {
