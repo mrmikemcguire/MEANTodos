@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'MEANTodos is ready';
+  title = 'MEANTodos is ready - Office Commit';
 }
